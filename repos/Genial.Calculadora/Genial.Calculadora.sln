@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genial.Calculadora", "Genial.Calculadora\Genial.Calculadora.csproj", "{C0B2C4D2-D17D-4DBF-9B79-23F7F33680A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{12A8A288-1B1C-400B-B732-93C959809B5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B2C4D2-D17D-4DBF-9B79-23F7F33680A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B2C4D2-D17D-4DBF-9B79-23F7F33680A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B2C4D2-D17D-4DBF-9B79-23F7F33680A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B2C4D2-D17D-4DBF-9B79-23F7F33680A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A8A288-1B1C-400B-B732-93C959809B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A8A288-1B1C-400B-B732-93C959809B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A8A288-1B1C-400B-B732-93C959809B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A8A288-1B1C-400B-B732-93C959809B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50931DBE-5B6E-487C-A023-C778B9118CF4}
+	EndGlobalSection
+EndGlobal

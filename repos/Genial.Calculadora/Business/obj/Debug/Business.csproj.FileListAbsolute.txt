@@ -1,0 +1,6 @@
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Business\bin\Debug\Business.dll
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Business\bin\Debug\Business.pdb
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Business\obj\Debug\Business.dll
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Business\obj\Debug\Business.pdb

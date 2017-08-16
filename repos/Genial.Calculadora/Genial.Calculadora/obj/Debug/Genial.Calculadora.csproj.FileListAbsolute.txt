@@ -1,0 +1,12 @@
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\bin\Debug\Genial.Calculadora.exe.config
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\bin\Debug\Genial.Calculadora.exe
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\bin\Debug\Genial.Calculadora.pdb
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\obj\Debug\Genial.Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\obj\Debug\Genial.Calculadora.Form1.resources
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\obj\Debug\Genial.Calculadora.Properties.Resources.resources
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\obj\Debug\Genial.Calculadora.csproj.GenerateResource.Cache
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\obj\Debug\Genial.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\obj\Debug\Genial.Calculadora.exe
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\obj\Debug\Genial.Calculadora.pdb
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\bin\Debug\Business.dll
+C:\Users\advecsaracuruna\source\repos\Genial.Calculadora\Genial.Calculadora\bin\Debug\Business.pdb
